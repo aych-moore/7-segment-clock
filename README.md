@@ -61,3 +61,4 @@ Code is uploaded to the ESP32 to control the LEDs.
 * Laser cut diffusers
 * 1000uF capacitor on each strip
 * ESP32 web server to change colours and run functions
+* Add photo of clock and CAD files
